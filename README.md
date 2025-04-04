@@ -64,7 +64,7 @@ This module connects to the official NSW Government Fuel API to retrieve real-ti
 
 ## 🗺️ ETL Architecture Diagram
 
-```mermaid
+```
 graph TD
     A[NSW Fuel API] --> B[NswAPI_call.py]
     B --> C[DB_Ingest.py]
