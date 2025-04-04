@@ -1,7 +1,7 @@
 
 # ⛽ NSW Fuel Price Dashboard
 
-![NSW Fuel Price Dashboard](A_banner_graphic_for_the_NSW_Fuel_Price_Dashboard_.png)
+
 
 Welcome to the **NSW FuelApp** – a project built to fetch, clean, and visualize live fuel price data from New South Wales, Australia. This repository demonstrates a complete **ETL (Extract, Transform, Load)** pipeline in Python, with a simple dashboard for fuel price insights.
 
